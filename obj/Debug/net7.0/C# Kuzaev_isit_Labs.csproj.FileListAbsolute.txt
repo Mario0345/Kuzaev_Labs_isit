@@ -1,0 +1,14 @@
+B:\shitty_code\C# Kuzaev_isit_Labs\obj\Debug\net7.0\C# Kuzaev_isit_Labs.GeneratedMSBuildEditorConfig.editorconfig
+B:\shitty_code\C# Kuzaev_isit_Labs\obj\Debug\net7.0\C# Kuzaev_isit_Labs.AssemblyInfoInputs.cache
+B:\shitty_code\C# Kuzaev_isit_Labs\obj\Debug\net7.0\C# Kuzaev_isit_Labs.AssemblyInfo.cs
+B:\shitty_code\C# Kuzaev_isit_Labs\obj\Debug\net7.0\C# Kuzaev_isit_Labs.csproj.CoreCompileInputs.cache
+B:\shitty_code\C# Kuzaev_isit_Labs\bin\Debug\net7.0\C# Kuzaev_isit_Labs.exe
+B:\shitty_code\C# Kuzaev_isit_Labs\bin\Debug\net7.0\C# Kuzaev_isit_Labs.deps.json
+B:\shitty_code\C# Kuzaev_isit_Labs\bin\Debug\net7.0\C# Kuzaev_isit_Labs.runtimeconfig.json
+B:\shitty_code\C# Kuzaev_isit_Labs\bin\Debug\net7.0\C# Kuzaev_isit_Labs.dll
+B:\shitty_code\C# Kuzaev_isit_Labs\bin\Debug\net7.0\C# Kuzaev_isit_Labs.pdb
+B:\shitty_code\C# Kuzaev_isit_Labs\obj\Debug\net7.0\C# Kuzaev_isit_Labs.dll
+B:\shitty_code\C# Kuzaev_isit_Labs\obj\Debug\net7.0\refint\C# Kuzaev_isit_Labs.dll
+B:\shitty_code\C# Kuzaev_isit_Labs\obj\Debug\net7.0\C# Kuzaev_isit_Labs.pdb
+B:\shitty_code\C# Kuzaev_isit_Labs\obj\Debug\net7.0\C# Kuzaev_isit_Labs.genruntimeconfig.cache
+B:\shitty_code\C# Kuzaev_isit_Labs\obj\Debug\net7.0\ref\C# Kuzaev_isit_Labs.dll
