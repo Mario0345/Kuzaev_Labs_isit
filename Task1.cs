@@ -10,8 +10,8 @@ namespace Task_1
 	{
 		private static string initial_path_Task1 = "Task1_initial.txt";
 		private static string second_path_Task1 = "Task1_second.txt";
-		public static void Randomgen(int Size)
-		{
+		public static void Randomgen(int Size)// заполняем файл случайными числами от 0 до 99 
+		{																			// количество задается аргументом Size
 			using (var SW = new StreamWriter(initial_path_Task1))
 			{ // using
 				var random = new Random();
@@ -28,7 +28,7 @@ namespace Task_1
 			
 				string[] records = File.ReadAllLines(initial_path_Task1);
 				int[] unsorted = Array.ConvertAll<string, int>(records, new Converter<string, int>(i => int.Parse(i)));
-			
+				//выше конвертируем числа в инт формат и помещаем их в массив интов из файла
 				List<int> filtered = new List<int>();
 				foreach (var item in unsorted)
 				{
@@ -37,13 +37,11 @@ namespace Task_1
 					}
 				}
 
-
-
 				using (var SR = new StreamWriter(second_path_Task1))
 			{
 				foreach (var item in filtered)
 				{
-					SR.Write($"{item},");
+					SR.Write($"{item},"); //записываем отфильтрованные числа в новый файл
 				}
 			}
 
